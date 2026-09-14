@@ -48,7 +48,7 @@ Avant de commencer, assure-toi d’avoir installé :
 Clone le repo :
 
 ```bash
-git clone https://github.com/SkNightmare/SKIRC.git
+git clone https://github.com/SkNightmare/SerialKIRC.git
 cd SKIRC
 ```
 
