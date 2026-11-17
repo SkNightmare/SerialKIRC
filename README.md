@@ -49,7 +49,6 @@ Clone le repo :
 
 ```bash
 git clone https://github.com/SkNightmare/SerialKIRC.git
-cd SKIRC
 ```
 
 Installe les dépendances :
